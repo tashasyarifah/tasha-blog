@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "tasha-blog",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
+  "description": "A blog where Tasha writes",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Tasha Syarifah <tashasyarifah@gmail.com>",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/tashasyarifah/tasha-blog/issues"
   },
   "dependencies": {
     "gatsby": "^4.17.0",
@@ -35,7 +35,7 @@
   "devDependencies": {
     "prettier": "^2.6.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "homepage": "https://github.com/tashasyarifah/tasha-blog#readme",
   "keywords": [
     "gatsby"
   ],
