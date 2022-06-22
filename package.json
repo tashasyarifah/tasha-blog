@@ -42,7 +42,7 @@
   "license": "0BSD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git+https://github.com/tashasyarifah/tasha-blog.git"
   },
   "scripts": {
     "build": "gatsby build",
