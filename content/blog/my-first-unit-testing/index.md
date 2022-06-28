@@ -77,7 +77,7 @@ If it's failed then you get a clear error message. I think this is where unit te
 
 ![A screenshot of a failed test using Jest](./fail_test.png)
 
-Testing is based on your command. Let's say you want to test two functions. Then, you write one test. The results show pass and fail. It is passed cause on of your codes works. It's a failure because you don't test your other code. 
+Testing is based on your command. Let's say you want to test two functions. Then, you write one test for one function. The results show pass but not 100%. Why? It's because you have another function that's not being tested. 
 
 ![A screenshot of a passed and failed test using Jest](./pass_and_fail.png)
 
