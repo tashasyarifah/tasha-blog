@@ -59,11 +59,11 @@ Adding it is helpful for understanding your error. For me, it's more readable. T
 
 This is how it looks:
 
-![A screenshot of code coverage report from Jest.]('./icov-report.jpeg')
+![A screenshot of code coverage report from Jest.](./icov-report.jpeg)
 
 The image above shows that there is an error on the `sum.js`. It's clickable. Try to click it. Then, you will see something like this. 
 
-![A screenshot of code from sum.js folder. Line 6 is highlighted indicates as an error.]('./icov-sum.jpeg')
+![A screenshot of code from sum.js folder. Line 6 is highlighted indicates as an error.](./icov-sum.jpeg)
 
 The highlighted line from the picture above indicates the error from the file. Having this kind of tool would be helpful for debugging. 
 
@@ -71,15 +71,15 @@ The highlighted line from the picture above indicates the error from the file. H
 
 It's useful to get to know whether the code works. It gave you confidence that your code it runs well as expected. It looks like this.
 
-![A screenshot of a pass test using Jest]('./pass_test.png')
+![A screenshot of a pass test using Jest](./pass_test.png)
 
 If it's failed then you get a clear error message. I think this is where unit testing come in handy. You get the clear text which one codes seems to be an error.  
 
-![A screenshot of a failed test using Jest]('./fail_test.png')
+![A screenshot of a failed test using Jest](./fail_test.png)
 
 Testing is based on your command. Let's say you want to test two functions. Then, you write one test. The results show pass and fail. It is passed cause on of your codes works. It's a failure because you don't test your other code. 
 
-![A screenshot of a passed and failed test using Jest]('./pass_and_fail.png')
+![A screenshot of a passed and failed test using Jest](./pass_and_fail.png)
 
 At the picture above, look at the uncovered line coloumn. It shows you the number and the file of your code that seems to be an error. Or you can use `--coverage` as I mentioned above.
 
