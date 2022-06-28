@@ -13,11 +13,11 @@ You can do testing almost for every framework. [You can read in their doc](https
 
 ## Preparations 
 
-I'm using VS Code as my IDE. Already have npm installed. A clear mind for absorbing new information. [FYI: I'm feeling a bit afraid of knowing nothing. To convince me that it's okay to not understand on the first try].
+I'm using VS Code as my IDE. Already have `npm` installed. A clear mind for absorbing new information. [FYI: I'm feeling a bit afraid of knowing nothing. To convince myself that it's okay to not understand on the first try].
 
 ## The Process
 
-I read their doc and follow their [getting started section](https://jestjs.io/docs/getting-started). Everything was smooth. Thus, I try to read the code. There are terms the unfamiliar to me. 
+I read their doc and follow their [getting started section](https://jestjs.io/docs/getting-started). Everything was smooth. Thus, I try to read the code. There are terms that unfamiliar to me. 
 
 ```js
 
